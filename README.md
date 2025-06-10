@@ -13,7 +13,9 @@ Once the tree is contructed, you should display a menu with the following option
 Insert a value into the tree
 Delete a value from the tree
 Display the tree (in order)
+
 Exit
+
 If option 1 is chosen, ask for an integer, and then insert that integer into the tree (using the functions provided in the ADT)
 
 If option 2 is chosen, ask for an integer to delete, and then delete that integer, and rearrange the values in the tree (according to the code provided in the ADT; make sure to consider all 4 cases)
